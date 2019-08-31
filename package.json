@@ -1,0 +1,17 @@
+{
+    "name": "patterns",
+    "version": "1.0.0",
+    "description": "Design Patterns JS",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
+    },
+    "author": "Adrian Kazimierski",
+    "license": "ISC",
+    "dependencies": {
+        "vuepress": "^1.0.3"
+    }
+}
