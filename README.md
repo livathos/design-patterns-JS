@@ -1,4 +1,5 @@
 ## Design Patterns JS
+JavaScripts examples, diagrams and more.
 
 ### Creational Patterns
 - **Prototype**
