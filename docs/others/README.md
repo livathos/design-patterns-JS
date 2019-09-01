@@ -1,6 +1,6 @@
 ---
-title: Introduction
-description: Introduction
+title: OLOO
+description: Objects linked to other objects
 meta:
   - name: og:title
     content: OLOO design patterns JS

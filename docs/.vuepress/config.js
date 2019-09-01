@@ -7,7 +7,8 @@ const sidebars = {
         'observer'
     ],
     creational: [
-        ''
+        '',
+        'factory-method'
     ],
     structural: [
         ''

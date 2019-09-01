@@ -2,18 +2,18 @@
 JavaScripts examples, diagrams and more.
 
 ### Creational Patterns
-- **Prototype**
-- **Singleton**
-- **Factory Method**
+- **Prototype** : TODO:
+- **Singleton** : TODO:
+- **Factory Method** 
 
 ### Structural Patterns
-- **Adapter**
-- **Composite**
-- **Facade**
-- **Flyweight**
-- **Proxy**
+- **Adapter** : TODO:
+- **Composite** : TODO:
+- **Facade** : TODO:
+- **Flyweight** : TODO:
+- **Proxy** : TODO:
 
 ### Behavioral Patterns
-- **Command**
-- **Iterator**
+- **Command** : TODO:
+- **Iterator** : TODO:
 - **Observer**
