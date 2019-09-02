@@ -1,5 +1,5 @@
 class InputText {
-    constructor ({field}) {
+    constructor ({ field }) {
         this.field = field
     }
 
@@ -8,7 +8,7 @@ class InputText {
     }
 
     valid () {
-        if ( this.field.value.length < 5 ) {
+        if (this.field.value.length < 5) {
             this.field.style = 'background: red;'
         } else {
             this.field.style = 'background: green;'

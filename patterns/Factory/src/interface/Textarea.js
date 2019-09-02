@@ -1,5 +1,5 @@
 class Textarea {
-    constructor ({field}) {
+    constructor ({ field }) {
         this.field = field
     }
 
@@ -8,7 +8,7 @@ class Textarea {
     }
 
     valid () {
-        if ( this.field.value.length < 10 ) {
+        if (this.field.value.length < 10) {
             this.field.style = 'background: pink;'
         } else {
             this.field.style = 'background: blue;'

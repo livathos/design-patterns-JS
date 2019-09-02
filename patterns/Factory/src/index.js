@@ -6,8 +6,8 @@ const inputField2 = document.querySelector('#input2')
 const textareaField = document.querySelector('#textarea')
 
 const inputText = new ManagerInputText()
-inputText.valid({field: inputField})
-inputText.valid({field: inputField2})
+inputText.valid({ field: inputField })
+inputText.valid({ field: inputField2 })
 
 const textarea = new ManagerTextarea()
-textarea.valid({field: textareaField})
+textarea.valid({ field: textareaField })
