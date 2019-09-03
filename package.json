@@ -8,7 +8,7 @@
     "scripts": {
         "docs:dev": "vuepress dev docs",
         "docs:build": "vuepress build docs",
-        "lint": "eslint patterns/** --fix"
+        "lint": "eslint . --ext .js --fix"
     },
     "author": "Adrian Kazimierski",
     "license": "ISC",
@@ -30,7 +30,7 @@
     },
     "lint-staged": {
         "*.js": [
-            "eslint --ext .js patterns/** --fix",
+            "eslint . --ext .js --fix",
             "git add"
         ]
     },
