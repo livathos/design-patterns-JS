@@ -4,7 +4,8 @@ const sidebars = {
     ],
     behavioural: [
         '',
-        'observer'
+        'observer',
+        'command'
     ],
     creational: [
         '',

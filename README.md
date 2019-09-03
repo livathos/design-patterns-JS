@@ -14,6 +14,6 @@ JavaScripts examples, diagrams and more.
 - **Proxy** : TODO:
 
 ### Behavioral Patterns
-- **Command** : TODO:
+- **Command**
 - **Iterator** : TODO:
 - **Observer**

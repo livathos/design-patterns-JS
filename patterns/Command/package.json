@@ -1,7 +1,7 @@
 {
-  "name": "factory",
+  "name": "command",
   "version": "1.0.0",
-  "description": "factory pattern",
+  "description": "command pattern",
   "main": "src/index.js",
   "scripts": {
     "start": "webpack --watch"
