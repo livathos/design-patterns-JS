@@ -12,7 +12,8 @@ const sidebars = {
         'factory-method'
     ],
     structural: [
-        ''
+        '',
+        'flyweight'
     ]
 }
   

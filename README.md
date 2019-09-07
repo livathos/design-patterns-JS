@@ -10,7 +10,7 @@ JavaScripts examples, diagrams and more.
 - **Adapter** : TODO:
 - **Composite** : TODO:
 - **Facade** : TODO:
-- **Flyweight** : TODO:
+- **Flyweight**
 - **Proxy** : TODO:
 
 ### Behavioral Patterns
