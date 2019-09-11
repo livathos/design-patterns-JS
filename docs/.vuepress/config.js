@@ -13,7 +13,8 @@ const sidebars = {
     ],
     structural: [
         '',
-        'flyweight'
+        'flyweight',
+        'proxy'
     ]
 }
   

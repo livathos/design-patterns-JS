@@ -3,10 +3,10 @@ title: Introduction
 description: Introduction
 meta:
   - name: og:title
-    content: Creational design patterns JS
+    content: Structural design patterns JS
   - name: og:description
-    content: Creational design patterns examples JavaScript code.
+    content: Structural design patterns examples JavaScript code.
 ---
 # Introduction
 
-Creational design patterns are design patterns that deal with object creation mechanisms.
+Structural design patterns are design patterns that ease the design by identifying a simple way to realize relationships among entities.
