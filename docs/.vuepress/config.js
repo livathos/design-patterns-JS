@@ -1,7 +1,4 @@
 const sidebars = {
-    others: [
-        ''
-    ],
     behavioural: [
         '',
         'observer',
@@ -17,7 +14,7 @@ const sidebars = {
         'proxy'
     ]
 }
-  
+
 function genSidebarConfig(...names) {
     return names.map(t => {
         return {
@@ -27,7 +24,7 @@ function genSidebarConfig(...names) {
         }
     })
 }
-  
+
 module.exports = {
     title: 'Design patterns JavaScript',
     description: 'Exploring Design Patterns with ES6 and diagrams.',
@@ -53,14 +50,12 @@ module.exports = {
                 selectText: 'Languages',
                 editLinkText: 'Help to improve this page!',
                 nav: [
-                    { text: 'Others', link: '/others/' },
                     { text: 'Behavioural', link: '/behavioural/' },
                     { text: 'Creational', link: '/creational/' },
                     { text: 'Structural', link: '/structural/' }
                 ],
                 sidebarDepth: 3,
                 sidebar: {
-                    '/others/': genSidebarConfig('Others'),
                     '/behavioural/': genSidebarConfig('Behavioural'),
                     '/creational/': genSidebarConfig('Creational'),
                     '/structural/': genSidebarConfig('Structural')
